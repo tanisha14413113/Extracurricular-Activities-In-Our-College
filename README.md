@@ -1,2 +1,6 @@
 # Extracurricular-Activities-In-Our-College
-Frontend website for CSI web-based competition INOVI. Developed collaboratively by three friends.
+Frontend website for CSI web-based competition Webway. Developed collaboratively by me any my two friends.
+
+1.Tanisha Pantawane 
+2.Mayuri Kulmethe
+3.Prachi Khobragade 
